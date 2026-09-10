@@ -9,7 +9,8 @@ function App() {
 
   return (
     <>
-    <h1>Code Step By Step...</h1>
+    <h1>Testing</h1>
+    <h2>React Github Actions</h2>
     </>
   )
 }
